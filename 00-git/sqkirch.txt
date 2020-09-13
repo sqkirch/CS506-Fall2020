@@ -1,3 +1,5 @@
 Suzy Kirch
 
+trying terminal in VS code
+
 finished exercise 3
